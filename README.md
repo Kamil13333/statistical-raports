@@ -1,3 +1,3 @@
-# statistical-raports
+# statistical-reports
 
-This repository contains raports from my various statistical classes.
+This repository contains reports from my various statistical classes.
